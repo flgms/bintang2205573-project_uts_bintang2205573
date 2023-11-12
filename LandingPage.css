@@ -1,0 +1,31 @@
+.myBG{
+    height: 100vh;
+    background: url(../assets/background.jpg);
+    background-size: cover;
+}
+
+.intro{
+    height:300px;
+    display: flex;
+    justify-content: color;
+    align-items: center;
+}
+
+.title{
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px whitesmoke;
+    letter-spacing: 4px;
+}
+
+.about{
+    text-align: center;
+    margin: auto;
+    width: 50%;
+}
+
+.contact{
+    padding: 10px;
+    border-radius: 6px;
+}
